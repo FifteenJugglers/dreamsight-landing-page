@@ -1,5 +1,5 @@
 #page title
-page_title                                : DreamSight                                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : Dream Sight                                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 ios_app_id                                : 6446060906                               # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
@@ -35,16 +35,16 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
   - title                                 : Discover the hidden meanings of your dreams
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+    description                           : Unlock the secrets of your subconscious mind with our app, as it expertly deciphers the symbols and themes in your dreams. Empower yourself with newfound understanding and personal growth by unraveling the enigmatic messages your dreams hold, guiding you towards self-awareness and emotional well-being.
+    fontawesome_icon_name                 : magic
 
   - title                                 : Gain personal insights and improve yourself
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+    description                           : Transform your inner world with our app by uncovering the personal insights your dreams offer, fostering self-improvement and personal growth. Harness the power of your subconscious to identify areas for growth and evolve into the best version of yourself, all through understanding your dreams.
+    fontawesome_icon_name                 : star
 
   - title                                 : Unlock the secrets of your dreams, anytime, anywhere
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+    description                           : Experience the freedom of dream interpretation at your fingertips with our app, allowing you to delve into your dream world whenever and wherever you choose. Unravel the mysteries of your subconscious and access the wisdom within your dreams, no matter where you are or when inspiration strikes.
+    fontawesome_icon_name                 : book
 
 
 
@@ -67,11 +67,11 @@ app_title_color                           : "#ffffff"
 app_price_color                           : "#ffffff"
 app_description_color                     : "#ffffff"
 
-feature_title_color                       : "#000000"
-feature_text_color                        : "#666666"
+feature_title_color                       : "#eee"
+feature_text_color                        : "#999"
 
-feature_icons_foreground_color            : "#1d63ea"
-feature_icons_background_color            : "#e6e6e6"
+feature_icons_foreground_color            : "#37B6C4"
+feature_icons_background_color            : "#ccc"
 
 social_icons_foreground_color             : "#666666"
 social_icons_background_color             : "#e6e6e6"
